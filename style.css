@@ -27,6 +27,7 @@ body {
 
 .intro span{
   width:100%;
+  height: 0.1em;
   display:inline-block;
 }
 

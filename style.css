@@ -14,7 +14,8 @@ body {
 .intro {
     position: absolute;
     top: 30%;
-    left: 29%;
+    left: 30%;
+    width: 40%;
     z-index: 1;
     animation: intro 6s ease-out 1s;
     color: rgb(75, 213, 238);
